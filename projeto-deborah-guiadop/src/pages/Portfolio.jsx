@@ -6,7 +6,7 @@ const Portfolio = () => {
   return (
     <>
       <Header 
-        title="Projetinhos da lili" 
+        title="Projetinhos da Deby" 
         image={portfolio} 
       />
       <h1>PORTFOLIO</h1>

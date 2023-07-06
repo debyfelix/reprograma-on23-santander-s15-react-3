@@ -6,7 +6,7 @@ const Sobre = () => {
   return (
     <>
       <Header 
-        title="Descubra mais sobre a lili" 
+        title="Descubra mais sobre a Deby" 
         image={sobre} 
       />
       <h1>SOBRE</h1>
